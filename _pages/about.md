@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Hagängsvägen 18. 0735053490. Moto. Etc.
+subtitle:  Hagängsvägen 18. 0735053490. 
 
 profile:
   align: right
@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p></p>
     <p> Hagängsvägen 18</p>
-    <p>Stockholm, Upplands Väsby</p>
+    <p> Stockholm, Upplands Väsby</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
