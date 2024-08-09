@@ -22,6 +22,6 @@ My name is Jorge Luis Yurivilca Peña. I am 38 years old and currently reside in
 
 Family is very important to me, and I love spending time with my family and my beautiful daughter. One of my hobbies is exploring new technologies and programming. I often visit this programming community on Reddit to stay updated and learn new things.
 
-Growing up and adjusting to life in Sweden has been a journey filled with challenges and opportunities. Over the years, I have developed a deep appreciation for the diverse culture and the welcoming nature of this country. and  You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Growing up and adjusting to life in Sweden has been a journey filled with challenges and opportunities. Over the years, I have developed a deep appreciation for the diverse culture and the welcoming nature of this country.
 
 
