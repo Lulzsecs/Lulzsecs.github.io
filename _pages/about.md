@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: jorge_luis18@hotmail.com Hagängsvägen 18 0735053490
+subtitle: 📧jorge_luis18@hotmail.com  📱0735053490 🏠Hagängsvägen 18, Upplands Väsby
 
 profile:
   align: right
