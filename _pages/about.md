@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:  Hagängsvägen 18. 0735053490. 
+subtitle: jorge_luis18@hotmail.com Hagängsvägen 18 0735053490
 
 profile:
   align: right
