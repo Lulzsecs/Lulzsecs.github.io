@@ -8,7 +8,7 @@ middle_name: Luis
 last_name: Yurivilca Peña
 email: hx4l1z@hgmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  A little about myself.
 footer_text: >
   Powered by <a href="https://hukusec.com/" target="_blank">Hukusec AB</a> with <a href="https://github.com/alshedivat/al-folio">Hukushadow</a> theme.
   Hosted by <a href="https://hostinger.com/" target="_blank">Hostinger</a>.
