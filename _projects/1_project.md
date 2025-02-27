@@ -2,7 +2,7 @@
 layout: page
 title: vattenfallsvillan.se
 description: Vattenfallsvillan in Alby, Ånge Kommun. 
-img: assets/img/vattenfallsvillan.webp
+img: assets/img/vattenfallsvillan1.webp
 importance: 1
 category: work
 related_publications: true
@@ -15,7 +15,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/vattenfallsvillan1.webp
+    img: /assets/img/vattenfallsvillan.webp
     ---
 
 <div class="row">
