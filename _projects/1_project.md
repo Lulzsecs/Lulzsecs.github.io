@@ -1,24 +1,21 @@
 ---
 layout: page
 title: vattenfallsvillan.se
-description: with background image
-img: assets/img/12.jpg
+description: Vattenfallsvillan in Alby, Ånge Kommun. 
+img: assets/img/vattenfallsvillan.webp
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
+In 2024, I designed and developed its website, focusing on an elegant and functional presentation that reflects the property's unique character.
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
     ---
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/vattenfallsvillan1.webp
     ---
 
 <div class="row">
